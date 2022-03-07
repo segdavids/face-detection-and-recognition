@@ -278,3 +278,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
